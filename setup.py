@@ -8,7 +8,7 @@ setup(
     description='GISAPI SDK enabling geospatial data search and discovery',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/OmniverseXYZ/gisapi-sdk-python',
+    url='https://github.com/GISDATAio/gisapi-sdk-python',
     license='GNU General Public License v3 (GPLv3)',
     classifiers=[
         'Development Status :: 3 - Alpha',
